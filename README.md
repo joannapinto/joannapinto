@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joanna Leticia Pinto.
-- 👀 I’m interested in being a Business.
+- 👀 I’m interested in being a Data/Business Analyst.
 - 🌱 I’m currently learning Power BI, DSA and advanced Excel.
 - 📫 You can reach me at joannapinto1996@gmail.com
 - 👩‍💼 My LinkedIn is https://www.linkedin.com/in/joanna-pinto-71a440260/ 

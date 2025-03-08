@@ -2,7 +2,7 @@
 - 👀 I’m interested in being a Business.
 - 🌱 I’m currently learning Power BI, DSA and advanced Excel.
 - 📫 You can reach me at joannapinto1996@gmail.com
-
+- 👩‍💼 My LinkedIn is https://www.linkedin.com/in/joanna-pinto-71a440260/ 
 <!---
 joannapinto/joannapinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
